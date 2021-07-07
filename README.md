@@ -177,7 +177,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 - JWoC ( JGEC Winter of Code ) is a program organised by Developers JGEC in collaboration with Sristi 2020 which helps students to plunge into the realm of Open Source contribution and Software Development.
 
-<img align="right" src="assets/event2.png" width = "120" height = "100"><b>4. Let's Grow More Summer of Code</b>
+<img align="right" src="assets/event2.png" width = "120" height = "100"><b>2. Let's Grow More Summer of Code</b>
 
 - LGM-GOC ( Let's Grow More Summer of Code ) is a one month long Open Source program organized by LetsGrowMore Community to encourage student participation in open source software development under the guidance of mentors from the open source community. 
  
