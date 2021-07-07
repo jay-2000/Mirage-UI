@@ -173,9 +173,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Open Source Events Project is associated with:
 
-<img align="right" src="assets/event1.png" width = "120" height = "100"><b>1. JGEC Winter of Code</b>
+img align="right" src="assets/event1.png" width = "120" height = "100"><b>1. PClub Summer of Code</b>
 
-- JWoC ( JGEC Winter of Code ) is a program organised by Developers JGEC in collaboration with Sristi 2020 which helps students to plunge into the realm of Open Source contribution and Software Development.
+- PSOC( PClub Summer of Code ) is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging Diversity .
 
 <img align="right" src="assets/event2.png" width = "120" height = "100"><b>2. Let's Grow More Summer of Code</b>
 
