@@ -173,7 +173,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Open Source Events Project is associated with:
 
-img align="right" src="assets/event1.png" width = "120" height = "100"><b>1. PClub Summer of Code</b>
+<img align="right" src="assets/event1.png" width = "120" height = "100"><b>1. PClub Summer of Code</b>
 
 - PSOC( PClub Summer of Code ) is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging Diversity .
 
